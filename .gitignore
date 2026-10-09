@@ -1,0 +1,7 @@
+.env
+/netsentinel
+/netsentinel.exe
+/bin/
+/coverage.out
+*.pcap
+*.pcapng
